@@ -7,3 +7,4 @@ if Data :
     print('min:',min(Data))
 else :
     print('vide')
+
